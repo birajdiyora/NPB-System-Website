@@ -23,8 +23,10 @@ The Niru Patel Boarding Hostel Management System is a comprehensive web applicat
 
 ![Login Page](/screenshots/login.png)
 ![Room Dashboard](/screenshots/dashboard.png)
-![Student Admission](/screenshots/admission.png)
-
+![Beds](/screenshots/bedView.png)
+![Prayer Record](/screenshots/prayerRecordAdd.png)
+![Penalty](/screenshots/addPenalty.png)
+![Student View](/screenshots/studentView.png)
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request.

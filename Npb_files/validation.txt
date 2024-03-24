@@ -1,0 +1,6 @@
+  var ucase = new RegExp("[A-Z]+");
+	var lcase = new RegExp("[a-z]+");
+	var num = new RegExp("[0-9]+");
+
+
+	if(ucase.test($("#password1").val())){
